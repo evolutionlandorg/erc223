@@ -1,0 +1,22 @@
+{
+  "name": "evolutionerc223",
+  "version": "1.0.0",
+  "description": "Standard interface for ERC223",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolutionlandorg/erc223.git"
+  },
+  "author": "evolutionland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evolutionlandorg/erc223/issues"
+  },
+  "homepage": "https://github.com/evolutionlandorg/erc223#readme"
+}
